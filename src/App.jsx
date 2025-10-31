@@ -7,7 +7,7 @@ import Cart from "./components/Cart/Cart.jsx";
 import Layout from "./components/Layout/Layout.jsx";
 
 import Checkout from "./components/Checkout/Checkout.jsx";
-import Products from "./Components/Products/Products.jsx";
+import Products from "./components/Products/Products.jsx";
 import { CartProvider } from "./components/Context/CartContext.jsx";
 
 export default function App() {
